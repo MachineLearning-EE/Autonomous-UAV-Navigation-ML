@@ -35,7 +35,7 @@ Autonomous-UAV-Navigation-ML/
 │   └── tools/                        # Model validation scripts
 │
 ├── README.md
-└── Machine_Learning_Based_Autonomous_UAV_Control.pdf   # Project report
+└── Machine_Learning_Based_Autonomous_UAV_Control.pdf   #REFERENCE PAPER
 ```
 
 ---
